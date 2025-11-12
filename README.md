@@ -1,1 +1,4 @@
-# TechPub_Ecommerce
+<div align="center">
+  <img width="320px" src="https://raw.githubusercontent.com/itsLucas-h/TechPub_Ecommerce/main/assets/TechShere_Logo.png" alt="TechShere Logo" />
+</div>
+<h1 align="center">Ecommerce Performance Report</h1>
